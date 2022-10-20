@@ -1,7 +1,4 @@
 
-# Olá, seja bem vindo!
+## Olá, seja bem vindo!
 
-## Quem sou eu?
-
-## Me chamo Eliane, iniciante na profissão de Analista de QA. Apaixonada por tecnologia. Graduada em Análise e Desenvolvimento de Sistemas.
-
+###### Eu sou Eliane. Graduada em Análise e Desenvolvimento de Sistemas. Apaixonada por tecnologia e estudando da área de QA. 
