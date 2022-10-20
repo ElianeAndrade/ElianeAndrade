@@ -3,7 +3,7 @@
 
 #### ☺️ Eu sou a Eliane Andrade. 
 #### 💻 Estudante de QA | Teste de Software. 
-#### **🎓Graduada em:**
+#### **🎓 Graduada em:**
 #### - Letras Português/Inglês
 #### - Análise e Desenvolvimento de Sistemas. 
 #### 📚 Apaixonada por livros e tecnologia.
