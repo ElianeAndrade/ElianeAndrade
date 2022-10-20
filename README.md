@@ -3,9 +3,9 @@
 
 #### ☺️ Eu sou a Eliane Andrade. 
 #### 💻 Estudante de QA | Teste de Software. 
-#### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Graduada em:**
-#### 🎓 Letras Português/Inglês
-#### 🎓 Análise e Desenvolvimento de Sistemas. 
+#### **🎓Graduada em:**
+#### - Letras Português/Inglês
+#### - Análise e Desenvolvimento de Sistemas. 
 #### 📚 Apaixonada por livros e tecnologia.
 #### 💪 Atualmente trabalho como Diagramadora
 
