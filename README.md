@@ -2,7 +2,7 @@
 ## Olá, seja bem vindo! 🖐️
 
 #### ☺️ Eu sou Eliane Andrade. 
-#### 💻 Analista de QA Junior 
+#### 💻 Analista de QA Junior | Robot Framework | K6 Performance 
 #### **🎓 Graduada em:**
 #### - Letras Português/Inglês
 #### - Análise e Desenvolvimento de Sistemas. 
@@ -18,9 +18,9 @@
   <img align= "center" src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align= "center" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align= "center" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align= "center" src= "https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white">
-  <img align= "center" src= "https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white">
-  <img align= "center" src= "https://img.shields.io/badge/robotframework?style=for-the-badge&logo=Inkscape&logoColor=white">
+  <img align= "center" src= "https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+  <img align= "center" src= "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img align= "center" src= "https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white">
 </div>
 
 ##
