@@ -2,7 +2,7 @@
 ## Olá, seja bem vindo! 🖐️
 
 #### ☺️ Eu sou Eliane Andrade. 
-#### 💻 Analista de QA Junior | Robot Framework | K6 Performance 
+#### 💻 Analista de QA | Robot Framework | K6 Performance 
 #### **🎓 Graduada em:**
 #### - Letras Português/Inglês
 #### - Análise e Desenvolvimento de Sistemas. 
