@@ -6,7 +6,7 @@
 #### **🎓 Graduada em:**
 #### - Letras Português/Inglês
 #### - Análise e Desenvolvimento de Sistemas. 
-#### 📚 Apaixonada por livros e tecnologia.
+#### 📚 Apaixonada por livros.
 #### 💪 Proprietária da empresa 3D Prints.
 
 ##
