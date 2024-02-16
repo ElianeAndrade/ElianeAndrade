@@ -1,13 +1,14 @@
 
 ## Olá, seja bem vindo! 🖐️
 
-#☺️ Eu sou Eliane Andrade. 
-#💻 Analista de QA | Robot Framework | K6 Performance 
-#**🎓 Graduada em:**
-# - Análise e Desenvolvimento de Sistemas
-# - Letras Português/Inglês
-#📚 Apaixonada por livros.
-#💡 Proprietária da empresa 3D Prints.
+# ☺️ Eu sou Eliane Andrade
+# 💻 Analista de QA | Robot Framework | K6 Performance
+# **🎓 Graduada em:**
+  - Análise e Desenvolvimento de Sistemas
+  - Letras Português/Inglês
+# 📚 Apaixonada por livros
+# 💡 Proprietária da empresa 3D Prints
+
 
 ##
 <div align="center">
