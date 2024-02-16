@@ -7,7 +7,7 @@
 #### - Análise e Desenvolvimento de Sistemas
 #### - Letras Português/Inglês
 #### 📚 Apaixonada por livros.
-#### 💪 Proprietária da empresa 3D Prints.
+#### 💡 Proprietária da empresa 3D Prints.
 
 ##
 
@@ -25,7 +25,7 @@
 
 ##
 
-#### **Você pode me encontrar nas seguintes redes sociais:** 
+#### ** 📫 Você pode me encontrar nas seguintes redes sociais:** 
 <div>
   <a href="https://www.linkedin.com/in/eliane-maria-de-andrade" target= "_blanck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target= "_blanck"></a>
   <a href="mailto:emariaandrade@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target= "_blanck"></a>
