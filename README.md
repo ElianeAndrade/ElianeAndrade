@@ -1,15 +1,10 @@
 <div align="center">
-## Olá, seja bem vindo! 🖐️
-
-#### ☺️ Eu sou Eliane Andrade
-#### 💻 Analista de QA | Robot Framework | K6 Performance
-#### **🎓 Graduada em:**
-####  - Análise e Desenvolvimento de Sistemas
-####  - Letras Português/Inglês
-#### 📚 Apaixonada por livros
-#### 💡 Proprietária da empresa 3D Prints
+<strong>Olá, seja bem vindo!</strong>🖐️
+<br>
+Eu sou Eliane Andrade
 </div>
-
+<br>
+💡 Sou graduada em Análise e Desenvolvimento de Sistemas e Letras Português/Inglês. Atualmente trabalho como Analista de QA, na empresa Tecnologia Única e as principais ferramentas que utilizo são o Robot Framework, K6 Performance e AzureDevops
 
 ##
 <div align="center">
@@ -33,8 +28,10 @@
 </div>
 
 ##
-
-#### ** 📫 Você pode me encontrar nas seguintes redes sociais:** 
+<div align="center">
+<strong>📫 Você pode me encontrar nas seguintes redes sociais:</strong>
+</div>
+##
 <div align="center">
   <a <img width="50" href="https://www.linkedin.com/in/eliane-maria-de-andrade" target= "_blanck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target= "_blanck"></a>
   <a <img width="50" href="mailto:emariaandrade@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target= "_blanck"></a>
