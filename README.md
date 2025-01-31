@@ -5,7 +5,7 @@
 Eu sou Eliane Andrade
 </div>
 <br>
-💡 Sou graduada em Análise e Desenvolvimento de Sistemas e Letras Português/Inglês. Atualmente trabalho como Analista de QA, na empresa Tecnologia Única e as principais ferramentas que utilizo são o Robot Framework, K6 Performance e AzureDevops
+💡 Sou graduada em Análise e Desenvolvimento de Sistemas e Letras Português/Inglês. Atualmente trabalho como Analista de QA e as principais ferramentas que tenho dominio são: Playwright .NET, Robot Framework, K6 Performance e AzureDevops
 
 ##
 <div align="center">
@@ -21,6 +21,7 @@ Eu sou Eliane Andrade
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/201476821-3431d126-ae72-4c2a-a3c7-8a847070beeb.png" alt="Robot Framework" title="Robot Framework"/></code>
+	<code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
