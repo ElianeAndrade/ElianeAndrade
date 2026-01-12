@@ -5,7 +5,7 @@
 Eu sou Eliane Andrade
 </div>
 <br>
-💡 Sou graduada em Análise e Desenvolvimento de Sistemas e Letras Português/Inglês. Atualmente trabalho como Analista de QA e as principais ferramentas que tenho dominio são: Playwright .NET, Robot Framework, K6 Performance e AzureDevops
+💡 Sou graduada em Análise e Desenvolvimento de Sistemas e Letras Português/Inglês. Atualmente trabalho como Analista de QA e as principais ferramentas que tenho dominio são: Playwright .NET, Cypress, Robot Framework, K6 Performance e AzureDevops.
 
 ##
 <div align="center">
@@ -22,6 +22,7 @@ Eu sou Eliane Andrade
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" title="Figma"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/201476821-3431d126-ae72-4c2a-a3c7-8a847070beeb.png" alt="Robot Framework" title="Robot Framework"/></code>
 	<code><img width="50" src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright"/></code>
+	<code><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="Cypress" title="Cypress"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
@@ -39,4 +40,5 @@ Eu sou Eliane Andrade
   <a <img width="50" href="mailto:emariaandrade@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target= "_blanck"></a>
   <a <img width="50" href="https://wa.me/5544998945349"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target= "_blanck"></a>
 </div>
+
 
